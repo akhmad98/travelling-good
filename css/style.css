@@ -1024,6 +1024,9 @@ img{
     .top__card-desc {
         margin-bottom: 15px;
     }
+    .top__card-thumb {
+        width: 100%;
+    }
     .top {
         margin-bottom: 76px;
     }
